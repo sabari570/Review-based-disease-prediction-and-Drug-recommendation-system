@@ -1,4 +1,4 @@
-##Disease Prediction and Drug Recommendation System
+## Disease Prediction and Drug Recommendation System
 
 This project is a mobile application that uses user reviews to predict diseases and recommend appropriate drugs. The system consists of two parts: a Flutter-based mobile application for user interaction and a Flask-based RESTful API for backend processing.
 
