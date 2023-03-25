@@ -28,7 +28,7 @@ Install dependencies:
 
 Run the following command to start the Flask application:
 
-python main.py
+    python main.py
 
 
 ## Usage
@@ -44,9 +44,9 @@ The Flask API has the following endpoints:
 POST /predict_disease: This endpoint takes in a drug review as input and returns the predicted disease and recommended drugs.
 
 ## Technologies Used
-Flutter
-Flask
-Python
-Machine learning (Scikit-learn)
-Natural Language Processing (NLTK)
+    * Flutter
+    * Flask
+    * Python
+    * Machine learning (Scikit-learn)
+    * Natural Language Processing (NLTK)
 
