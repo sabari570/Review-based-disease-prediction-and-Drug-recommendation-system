@@ -10,9 +10,11 @@ Clone the repository
     Open the project in a Flutter-supported IDE (e.g., Android Studio, Visual Studio Code, etc.)
 
 Run the following command to install dependencies:
+
     flutter pub get
     
 Run the application on an emulator or a physical device:
+
     flutter run
 
 ## Flask RESTful API
